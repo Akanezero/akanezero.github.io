@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Akanezero&#39;s blog</title>
+  <icon>https://akanezero.github.io/icon.png</icon>
+  <subtitle>朱音の部屋</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://akanezero.github.io/"/>
+  <updated>2020-06-14T20:39:00.381Z</updated>
+  <id>https://akanezero.github.io/</id>
+  
+  <author>
+    <name>Akanezero</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://akanezero.github.io/post/4a17b156.html"/>
+    <id>https://akanezero.github.io/post/4a17b156.html</id>
+    <published>2020-06-14T15:25:43.673Z</published>
+    <updated>2020-06-14T20:39:00.381Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Hexo&lt;/a&gt;! This is your very first
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="生活" scheme="https://akanezero.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
