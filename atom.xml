@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Akanezero&#39;s blog</title>
-  <icon>https://akanezero.github.io/icon.png</icon>
+  <icon>https://akanezero.tk/icon.png</icon>
   <subtitle>物无非彼，物无非是；自彼则不见，自知则知之。故曰：彼出于是，是亦因彼。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://akanezero.github.io/"/>
-  <updated>2020-06-14T20:39:00.381Z</updated>
-  <id>https://akanezero.github.io/</id>
+  <link href="https://akanezero.tk/"/>
+  <updated>2020-06-25T14:00:50.572Z</updated>
+  <id>https://akanezero.tk/</id>
   
   <author>
     <name>Akanezero</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://akanezero.github.io/post/4a17b156.html"/>
-    <id>https://akanezero.github.io/post/4a17b156.html</id>
+    <link href="https://akanezero.tk/post/4a17b156.html"/>
+    <id>https://akanezero.tk/post/4a17b156.html</id>
     <published>2020-06-14T15:25:43.673Z</published>
-    <updated>2020-06-14T20:39:00.381Z</updated>
+    <updated>2020-06-25T14:00:50.572Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;!-- build time:Sat Jun 20 2020 16:23:12 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener
+          &lt;!-- build time:Sun Jun 28 2020 02:37:14 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;win10安装&quot;&gt;&lt;a href=&quot;#win10安装&quot; class=&quot;headerlink&quot;
         
       
     
@@ -37,7 +37,7 @@
     
     
     
-      <category term="生活" scheme="https://akanezero.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="https://akanezero.tk/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
