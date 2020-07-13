@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://akanezero.tk/"/>
-  <updated>2020-07-13T09:19:02.770Z</updated>
+  <updated>2020-07-13T12:44:31.723Z</updated>
   <id>https://akanezero.tk/</id>
   
   <author>
@@ -17,53 +17,15 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>网站合集</title>
-    <link href="https://akanezero.tk/post/4a17b156.html"/>
-    <id>https://akanezero.tk/post/4a17b156.html</id>
-    <published>2020-07-12T14:32:46.749Z</published>
-    <updated>2020-07-13T09:19:02.770Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Mon Jul 13 2020 18:05:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文主要介绍重要的网站、导航、书签，同时作为个人备份和更新用。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="网站&amp;导航&amp;书签" scheme="https://akanezero.tk/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>资源合集</title>
-    <link href="https://akanezero.tk/post/4a17b156.html"/>
-    <id>https://akanezero.tk/post/4a17b156.html</id>
-    <published>2020-07-12T14:32:17.100Z</published>
-    <updated>2020-07-13T09:19:09.653Z</updated>
-    
-    <summary type="html">
-    
-      &lt;!-- build time:Mon Jul 13 2020 18:05:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文主要介绍重要的资源搜索，同时作为个人备份和更新用。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-      <category term="资源" scheme="https://akanezero.tk/tags/%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
     <title>app合集</title>
-    <link href="https://akanezero.tk/post/4a17b156.html"/>
-    <id>https://akanezero.tk/post/4a17b156.html</id>
-    <published>2020-07-12T14:31:43.101Z</published>
-    <updated>2020-07-12T15:47:38.849Z</updated>
+    <link href="https://akanezero.tk/post/62166dec.html"/>
+    <id>https://akanezero.tk/post/62166dec.html</id>
+    <published>2020-07-13T20:43:09.000Z</published>
+    <updated>2020-07-13T12:44:31.723Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Jul 13 2020 18:05:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文主要介绍日常使用的app，同时作为个人备份和更新用。&lt;/p&gt;
+      &lt;!-- build time:Mon Jul 13 2020 20:45:07 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文主要介绍日常使用的app，同时作为个人备份和更新用。&lt;/p&gt;
     
     </summary>
     
@@ -74,21 +36,59 @@
   </entry>
   
   <entry>
-    <title>软件合集</title>
-    <link href="https://akanezero.tk/post/4a17b156.html"/>
-    <id>https://akanezero.tk/post/4a17b156.html</id>
-    <published>2020-06-14T15:25:43.673Z</published>
-    <updated>2020-07-13T09:19:27.656Z</updated>
+    <title>网站合集</title>
+    <link href="https://akanezero.tk/post/a1b17552.html"/>
+    <id>https://akanezero.tk/post/a1b17552.html</id>
+    <published>2020-07-13T20:43:09.000Z</published>
+    <updated>2020-07-13T12:44:46.347Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Mon Jul 13 2020 18:05:47 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文主要介绍日常用的软件，以及各种军刀式多功能工具，同时作为个人备份和更新用。&lt;/p&gt;
+      &lt;!-- build time:Mon Jul 13 2020 20:45:07 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文主要介绍重要的网站、导航、书签，同时作为个人备份和更新用。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="网站&amp;导航&amp;书签" scheme="https://akanezero.tk/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>软件合集</title>
+    <link href="https://akanezero.tk/post/d9dc1c33.html"/>
+    <id>https://akanezero.tk/post/d9dc1c33.html</id>
+    <published>2020-07-13T20:43:09.000Z</published>
+    <updated>2020-07-13T12:44:50.797Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Jul 13 2020 20:45:07 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文主要介绍日常用的软件，以及各种军刀式多功能工具，同时作为个人备份和更新用。&lt;/p&gt;
     
     </summary>
     
     
     
       <category term="软件" scheme="https://akanezero.tk/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>资源合集</title>
+    <link href="https://akanezero.tk/post/9a9321ef.html"/>
+    <id>https://akanezero.tk/post/9a9321ef.html</id>
+    <published>2020-07-13T20:43:09.000Z</published>
+    <updated>2020-07-13T12:44:42.381Z</updated>
+    
+    <summary type="html">
+    
+      &lt;!-- build time:Mon Jul 13 2020 20:45:07 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;本文主要介绍重要的资源搜索，同时作为个人备份和更新用。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="资源" scheme="https://akanezero.tk/tags/%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
