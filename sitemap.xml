@@ -2,66 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://akanezero.tk/about/index.html</loc>
+    <loc>https://akanezero.tk/post/6901369b.html</loc>
     
-    <lastmod>2021-02-20T11:44:51.768Z</lastmod>
+    <lastmod>2021-02-20</lastmod>
     
   </url>
   
   <url>
-    <loc>https://akanezero.tk/post/6901369b.html</loc>
+    <loc>https://akanezero.tk/about/index.html</loc>
     
-    <lastmod>2021-02-20T11:39:21.491Z</lastmod>
+    <lastmod>2021-02-20</lastmod>
     
   </url>
   
   <url>
     <loc>https://akanezero.tk/post/d9dc1c33.html</loc>
     
-    <lastmod>2021-02-15T04:22:43.221Z</lastmod>
+    <lastmod>2021-02-15</lastmod>
     
   </url>
   
   <url>
     <loc>https://akanezero.tk/post/62166dec.html</loc>
     
-    <lastmod>2021-02-15T02:46:29.415Z</lastmod>
+    <lastmod>2021-02-15</lastmod>
     
   </url>
   
   <url>
     <loc>https://akanezero.tk/post/9a9321ef.html</loc>
     
-    <lastmod>2021-02-15T02:46:22.728Z</lastmod>
+    <lastmod>2021-02-15</lastmod>
     
   </url>
   
   <url>
     <loc>https://akanezero.tk/post/a1b17552.html</loc>
     
-    <lastmod>2021-02-15T02:46:21.771Z</lastmod>
+    <lastmod>2021-02-15</lastmod>
     
   </url>
   
   <url>
     <loc>https://akanezero.tk/categories/index.html</loc>
     
-    <lastmod>2020-06-14T17:36:34.000Z</lastmod>
+    <lastmod>2020-06-14</lastmod>
     
   </url>
   
   <url>
     <loc>https://akanezero.tk/tags/index.html</loc>
     
-    <lastmod>2020-06-14T17:36:07.000Z</lastmod>
+    <lastmod>2020-06-14</lastmod>
     
   </url>
   
   <url>
     <loc>https://akanezero.tk/404.html</loc>
     
-    <lastmod>2020-06-14T17:27:05.000Z</lastmod>
+    <lastmod>2020-06-14</lastmod>
     
   </url>
+  
+
+  <url>
+    <loc>https://akanezero.tk/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://akanezero.tk/tags/app/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://akanezero.tk/tags/mac%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://akanezero.tk/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://akanezero.tk/tags/%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://akanezero.tk/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2021-05-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
   
 </urlset>
