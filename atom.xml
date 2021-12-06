@@ -6,7 +6,7 @@
   <link href="https://akanezero.tk/atom.xml" rel="self"/>
   
   <link href="https://akanezero.tk/"/>
-  <updated>2021-02-20T14:00:46.000Z</updated>
+  <updated>2021-12-06T10:13:27.704Z</updated>
   <id>https://akanezero.tk/</id>
   
   <author>
@@ -17,14 +17,82 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>mac软件合集</title>
+    <title>书籍</title>
+    <link href="https://akanezero.tk/post/8bba72ca.html"/>
+    <id>https://akanezero.tk/post/8bba72ca.html</id>
+    <published>2021-10-31T22:25:08.000Z</published>
+    <updated>2021-12-06T10:13:27.704Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;中英文严肃读物、漫画小说&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>影视</title>
+    <link href="https://akanezero.tk/post/f8be43eb.html"/>
+    <id>https://akanezero.tk/post/f8be43eb.html</id>
+    <published>2021-10-31T22:25:08.000Z</published>
+    <updated>2021-12-06T10:13:24.897Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;电影、动漫&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>游戏</title>
+    <link href="https://akanezero.tk/post/aa9c5c7c.html"/>
+    <id>https://akanezero.tk/post/aa9c5c7c.html</id>
+    <published>2021-10-31T22:25:08.000Z</published>
+    <updated>2021-12-06T10:13:24.180Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;围棋、minecraft、osu!&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>音乐</title>
+    <link href="https://akanezero.tk/post/b7fb4495.html"/>
+    <id>https://akanezero.tk/post/b7fb4495.html</id>
+    <published>2021-10-31T22:25:08.000Z</published>
+    <updated>2021-12-06T10:13:25.800Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;ost、classical music、j-pop music、asmr&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mac软件</title>
     <link href="https://akanezero.tk/post/6901369b.html"/>
     <id>https://akanezero.tk/post/6901369b.html</id>
     <published>2020-08-26T13:36:54.000Z</published>
-    <updated>2021-02-20T14:00:46.000Z</updated>
+    <updated>2021-12-06T10:13:20.498Z</updated>
     
     
-    <summary type="html">&lt;p&gt;本文主要介绍日常用的软件，以及各种军刀式多功能工具，同时作为个人备份和更新用。&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;p&gt;&lt;img</summary>
+        
+      
     
     
     
@@ -34,31 +102,22 @@
   </entry>
   
   <entry>
-    <title>app合集</title>
-    <link href="https://akanezero.tk/post/62166dec.html"/>
-    <id>https://akanezero.tk/post/62166dec.html</id>
-    <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2021-02-15T02:46:29.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;本文主要介绍日常使用的app，同时作为个人备份和更新用。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="app" scheme="https://akanezero.tk/tags/app/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网站合集</title>
+    <title>网站</title>
     <link href="https://akanezero.tk/post/a1b17552.html"/>
     <id>https://akanezero.tk/post/a1b17552.html</id>
     <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2021-02-15T02:46:21.000Z</updated>
+    <updated>2021-12-06T10:13:26.704Z</updated>
     
     
-    <summary type="html">&lt;p&gt;本文主要介绍重要的网站、导航、书签，同时作为个人备份和更新用。&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;h2 id=&quot;博主网站&quot;&gt;&lt;a href=&quot;#博主网站&quot; class=&quot;headerlink&quot; title=&quot;博主网站&quot;&gt;&lt;/a&gt;博主网站&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
     
     
     
@@ -68,31 +127,22 @@
   </entry>
   
   <entry>
-    <title>win软件合集</title>
-    <link href="https://akanezero.tk/post/d9dc1c33.html"/>
-    <id>https://akanezero.tk/post/d9dc1c33.html</id>
-    <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2021-02-15T04:22:43.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;本文主要介绍日常用的软件，以及各种军刀式多功能工具，同时作为个人备份和更新用。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="软件" scheme="https://akanezero.tk/tags/%E8%BD%AF%E4%BB%B6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>资源合集</title>
+    <title>资源搜索</title>
     <link href="https://akanezero.tk/post/9a9321ef.html"/>
     <id>https://akanezero.tk/post/9a9321ef.html</id>
     <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2021-02-15T02:46:22.000Z</updated>
+    <updated>2021-12-06T10:13:23.290Z</updated>
     
     
-    <summary type="html">&lt;p&gt;本文主要介绍重要的资源搜索，同时作为个人备份和更新用。&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;span id=&quot;more&quot;&gt;&lt;/span&gt;
+
+&lt;h2 id=&quot;代补充……&quot;&gt;&lt;a href=&quot;#代补充……&quot; class=&quot;headerlink&quot;</summary>
+        
+      
     
     
     
