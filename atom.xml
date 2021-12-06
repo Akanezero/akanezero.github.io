@@ -6,7 +6,7 @@
   <link href="https://akanezero.tk/atom.xml" rel="self"/>
   
   <link href="https://akanezero.tk/"/>
-  <updated>2021-12-06T10:24:27.006Z</updated>
+  <updated>2021-12-06T16:46:30.894Z</updated>
   <id>https://akanezero.tk/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://akanezero.tk/post/8bba72ca.html"/>
     <id>https://akanezero.tk/post/8bba72ca.html</id>
     <published>2021-10-31T22:25:08.000Z</published>
-    <updated>2021-12-06T10:24:27.006Z</updated>
+    <updated>2021-12-06T16:46:30.894Z</updated>
     
     
     <summary type="html">&lt;p&gt;主要介绍中英文严肃读物、漫画小说。&lt;/p&gt;</summary>
@@ -81,7 +81,7 @@
     <link href="https://akanezero.tk/post/6901369b.html"/>
     <id>https://akanezero.tk/post/6901369b.html</id>
     <published>2020-08-26T13:36:54.000Z</published>
-    <updated>2021-12-06T16:39:12.428Z</updated>
+    <updated>2021-12-06T16:46:59.843Z</updated>
     
     
     <summary type="html">&lt;p&gt;主要介绍日常用mac软件。&lt;/p&gt;</summary>
@@ -90,6 +90,23 @@
     
     
     <category term="mac软件" scheme="https://akanezero.tk/tags/mac%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ios应用</title>
+    <link href="https://akanezero.tk/post/62166dec.html"/>
+    <id>https://akanezero.tk/post/62166dec.html</id>
+    <published>2020-07-13T20:43:09.000Z</published>
+    <updated>2021-12-06T16:46:32.361Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;主要介绍日常用ios app。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="app" scheme="https://akanezero.tk/tags/app/"/>
     
   </entry>
   
