@@ -22,4 +22,28 @@
         priority: true,
         ignores : [uri => uri.includes('#'),uri => uri === 'https://akanezero.xyz/tags/app/',]
       });
-      });</script><script async src="/js/cursor/fireworks.js"></script><script src="/js/activate-power-mode.min.js"></script><script>POWERMODE.colorful=!0,POWERMODE.shake=!1,document.body.addEventListener("input",POWERMODE)</script><script type="text/javascript" src="/js/fold_action.js"></script></body></html>
+      });</script><script>NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/valine@1/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el         : '#valine-comments',
+      verify     : false,
+      notify     : false,
+      appId      : 'lnLlMYgWADyUS5To6uy3ow3U-MdYXbMMI',
+      appKey     : 'VCe5y7L153imEUuoYqcLxFfI',
+      placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!",
+      avatar     : 'mm',
+      meta       : guest,
+      pageSize   : '10' || 10,
+      visitor    : false,
+      lang       : '' || 'zh-cn',
+      path       : location.pathname,
+      recordIP   : false,
+      serverURLs : ''
+    });
+  }, window.Valine);
+});</script><script async src="/js/cursor/fireworks.js"></script><script src="/js/activate-power-mode.min.js"></script><script>POWERMODE.colorful=!0,POWERMODE.shake=!1,document.body.addEventListener("input",POWERMODE)</script><script type="text/javascript" src="/js/fold_action.js"></script></body></html>
