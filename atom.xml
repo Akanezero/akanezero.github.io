@@ -6,7 +6,7 @@
   <link href="https://akanezero.xyz/atom.xml" rel="self"/>
   
   <link href="https://akanezero.xyz/"/>
-  <updated>2021-12-06T10:23:20.320Z</updated>
+  <updated>2021-12-06T16:46:30.890Z</updated>
   <id>https://akanezero.xyz/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>书籍</title>
+    <link href="https://akanezero.xyz/post/8bba72ca.html"/>
+    <id>https://akanezero.xyz/post/8bba72ca.html</id>
+    <published>2021-10-31T22:25:08.000Z</published>
+    <updated>2021-12-06T16:46:30.890Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;主要介绍中英文严肃读物、漫画小说。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>影视</title>
@@ -32,26 +47,11 @@
   </entry>
   
   <entry>
-    <title>书籍</title>
-    <link href="https://akanezero.xyz/post/8bba72ca.html"/>
-    <id>https://akanezero.xyz/post/8bba72ca.html</id>
-    <published>2021-10-31T22:25:08.000Z</published>
-    <updated>2021-12-06T16:46:30.894Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;主要介绍中英文严肃读物、漫画小说。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>游戏</title>
     <link href="https://akanezero.xyz/post/aa9c5c7c.html"/>
     <id>https://akanezero.xyz/post/aa9c5c7c.html</id>
     <published>2021-10-31T22:25:08.000Z</published>
-    <updated>2021-12-06T10:23:29.922Z</updated>
+    <updated>2021-12-06T10:23:29.920Z</updated>
     
     
     <summary type="html">&lt;p&gt;主要介绍围棋、minecraft、osu!。&lt;/p&gt;</summary>
@@ -66,7 +66,7 @@
     <link href="https://akanezero.xyz/post/b7fb4495.html"/>
     <id>https://akanezero.xyz/post/b7fb4495.html</id>
     <published>2021-10-31T22:25:08.000Z</published>
-    <updated>2021-12-06T10:24:20.817Z</updated>
+    <updated>2021-12-06T10:24:20.810Z</updated>
     
     
     <summary type="html">&lt;p&gt;主要介绍ost、classical music、j-pop music、asmr。&lt;/p&gt;</summary>
@@ -81,7 +81,7 @@
     <link href="https://akanezero.xyz/post/6901369b.html"/>
     <id>https://akanezero.xyz/post/6901369b.html</id>
     <published>2020-08-26T13:36:54.000Z</published>
-    <updated>2021-12-06T16:46:59.843Z</updated>
+    <updated>2021-12-06T16:46:59.840Z</updated>
     
     
     <summary type="html">&lt;p&gt;主要介绍日常用mac软件。&lt;/p&gt;</summary>
@@ -98,7 +98,7 @@
     <link href="https://akanezero.xyz/post/62166dec.html"/>
     <id>https://akanezero.xyz/post/62166dec.html</id>
     <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2021-12-06T16:46:32.361Z</updated>
+    <updated>2021-12-06T16:46:32.360Z</updated>
     
     
     <summary type="html">&lt;p&gt;主要介绍日常用ios app。&lt;/p&gt;</summary>
@@ -111,28 +111,11 @@
   </entry>
   
   <entry>
-    <title>网站</title>
-    <link href="https://akanezero.xyz/post/a1b17552.html"/>
-    <id>https://akanezero.xyz/post/a1b17552.html</id>
-    <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2021-12-06T10:24:50.438Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;主要推荐一些博主网站。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="网站&amp;导航&amp;书签" scheme="https://akanezero.xyz/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>资源搜索</title>
     <link href="https://akanezero.xyz/post/9a9321ef.html"/>
     <id>https://akanezero.xyz/post/9a9321ef.html</id>
     <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2021-12-06T10:24:59.663Z</updated>
+    <updated>2021-12-06T10:24:59.660Z</updated>
     
     
     <summary type="html">&lt;p&gt;代补充&lt;/p&gt;</summary>
@@ -141,6 +124,23 @@
     
     
     <category term="资源" scheme="https://akanezero.xyz/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站</title>
+    <link href="https://akanezero.xyz/post/a1b17552.html"/>
+    <id>https://akanezero.xyz/post/a1b17552.html</id>
+    <published>2020-07-13T20:43:09.000Z</published>
+    <updated>2021-12-06T10:24:50.430Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;主要推荐一些博主网站。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="网站&amp;导航&amp;书签" scheme="https://akanezero.xyz/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/"/>
     
   </entry>
   
