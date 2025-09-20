@@ -29,15 +29,6 @@
   </url>
   
   <url>
-    <loc>https://akanezer.eu.org/post/d9dc1c33.html</loc>
-    
-    <lastmod>2022-04-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://akanezer.eu.org/post/9a9321ef.html</loc>
     
     <lastmod>2022-04-14</lastmod>
@@ -47,7 +38,16 @@
   </url>
   
   <url>
-    <loc>https://akanezer.eu.org/404.html</loc>
+    <loc>https://akanezer.eu.org/post/d9dc1c33.html</loc>
+    
+    <lastmod>2022-04-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://akanezer.eu.org/about/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://akanezer.eu.org/categories/index.html</loc>
+    <loc>https://akanezer.eu.org/404.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://akanezer.eu.org/about/index.html</loc>
+    <loc>https://akanezer.eu.org/categories/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -185,14 +185,14 @@
   </url>
   
   <url>
-    <loc>https://akanezer.eu.org/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://akanezer.eu.org/tags/%E8%B5%84%E6%BA%90/</loc>
     <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://akanezer.eu.org/tags/%E8%B5%84%E6%BA%90/</loc>
+    <loc>https://akanezer.eu.org/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
