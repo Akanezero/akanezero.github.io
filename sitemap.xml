@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://akanezero.eu.org/post/a1b17552.html</loc>
+    <loc>https://akanezero.eu.org/post/d9dc1c33.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://akanezero.eu.org/post/d9dc1c33.html</loc>
+    <loc>https://akanezero.eu.org/post/a1b17552.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://akanezero.eu.org/categories/index.html</loc>
+    <loc>https://akanezero.eu.org/tags/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://akanezero.eu.org/tags/index.html</loc>
+    <loc>https://akanezero.eu.org/categories/index.html</loc>
     
     <lastmod>2022-04-14</lastmod>
     
@@ -157,7 +157,7 @@
 
   <url>
     <loc>https://akanezero.eu.org/</loc>
-    <lastmod>2024-08-11</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,35 +165,35 @@
   
   <url>
     <loc>https://akanezero.eu.org/tags/app/</loc>
-    <lastmod>2024-08-11</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://akanezero.eu.org/tags/mac%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2024-08-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://akanezero.eu.org/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/</loc>
-    <lastmod>2024-08-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://akanezero.eu.org/tags/%E8%B5%84%E6%BA%90/</loc>
-    <lastmod>2024-08-11</lastmod>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://akanezero.eu.org/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2024-08-11</lastmod>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://akanezero.eu.org/tags/%E8%B5%84%E6%BA%90/</loc>
+    <lastmod>2025-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://akanezero.eu.org/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/</loc>
+    <lastmod>2025-09-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

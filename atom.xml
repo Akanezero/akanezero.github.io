@@ -6,7 +6,7 @@
   <link href="https://akanezero.eu.org/atom.xml" rel="self"/>
   
   <link href="https://akanezero.eu.org/"/>
-  <updated>2021-12-06T10:23:20.000Z</updated>
+  <updated>2021-12-06T16:46:30.000Z</updated>
   <id>https://akanezero.eu.org/</id>
   
   <author>
@@ -15,36 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>影视</title>
-    <link href="https://akanezero.eu.org/post/f8be43eb.html"/>
-    <id>https://akanezero.eu.org/post/f8be43eb.html</id>
-    <published>2021-10-31T22:25:08.000Z</published>
-    <updated>2021-12-06T10:23:20.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;主要介绍纪录片、英美剧、电影、番剧。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>游戏</title>
-    <link href="https://akanezero.eu.org/post/aa9c5c7c.html"/>
-    <id>https://akanezero.eu.org/post/aa9c5c7c.html</id>
-    <published>2021-10-31T22:25:08.000Z</published>
-    <updated>2021-12-06T10:23:29.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;主要介绍围棋、minecraft、osu!。&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>书籍</title>
@@ -62,6 +32,21 @@
   </entry>
   
   <entry>
+    <title>影视</title>
+    <link href="https://akanezero.eu.org/post/f8be43eb.html"/>
+    <id>https://akanezero.eu.org/post/f8be43eb.html</id>
+    <published>2021-10-31T22:25:08.000Z</published>
+    <updated>2021-12-06T10:23:20.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;主要介绍纪录片、英美剧、电影、番剧。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>音乐</title>
     <link href="https://akanezero.eu.org/post/b7fb4495.html"/>
     <id>https://akanezero.eu.org/post/b7fb4495.html</id>
@@ -70,6 +55,21 @@
     
     
     <summary type="html">&lt;p&gt;主要介绍ost、classical music、j-pop music、asmr。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>游戏</title>
+    <link href="https://akanezero.eu.org/post/aa9c5c7c.html"/>
+    <id>https://akanezero.eu.org/post/aa9c5c7c.html</id>
+    <published>2021-10-31T22:25:08.000Z</published>
+    <updated>2021-12-06T10:23:29.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;主要介绍围棋、minecraft、osu!。&lt;/p&gt;</summary>
     
     
     
@@ -111,23 +111,6 @@
   </entry>
   
   <entry>
-    <title>app合集</title>
-    <link href="https://akanezero.eu.org/post/62166dec.html"/>
-    <id>https://akanezero.eu.org/post/62166dec.html</id>
-    <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2022-04-14T17:13:13.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;本文主要介绍日常使用的app，同时作为个人备份和更新用。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="app" scheme="https://akanezero.eu.org/tags/app/"/>
-    
-  </entry>
-  
-  <entry>
     <title>ios应用</title>
     <link href="https://akanezero.eu.org/post/62166dec.html"/>
     <id>https://akanezero.eu.org/post/62166dec.html</id>
@@ -145,53 +128,19 @@
   </entry>
   
   <entry>
-    <title>网站合集</title>
-    <link href="https://akanezero.eu.org/post/a1b17552.html"/>
-    <id>https://akanezero.eu.org/post/a1b17552.html</id>
+    <title>app合集</title>
+    <link href="https://akanezero.eu.org/post/62166dec.html"/>
+    <id>https://akanezero.eu.org/post/62166dec.html</id>
     <published>2020-07-13T20:43:09.000Z</published>
     <updated>2022-04-14T17:13:13.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;本文主要介绍重要的网站、导航、书签，同时作为个人备份和更新用。&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;本文主要介绍日常使用的app，同时作为个人备份和更新用。&lt;/p&gt;</summary>
     
     
     
     
-    <category term="网站&amp;导航&amp;书签" scheme="https://akanezero.eu.org/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>网站</title>
-    <link href="https://akanezero.eu.org/post/a1b17552.html"/>
-    <id>https://akanezero.eu.org/post/a1b17552.html</id>
-    <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2021-12-06T10:24:50.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;主要推荐一些博主网站。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="网站&amp;导航&amp;书签" scheme="https://akanezero.eu.org/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>资源合集</title>
-    <link href="https://akanezero.eu.org/post/9a9321ef.html"/>
-    <id>https://akanezero.eu.org/post/9a9321ef.html</id>
-    <published>2020-07-13T20:43:09.000Z</published>
-    <updated>2022-04-14T17:13:13.000Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;本文主要介绍重要的资源搜索，同时作为个人备份和更新用。&lt;/p&gt;</summary>
-    
-    
-    
-    
-    <category term="资源" scheme="https://akanezero.eu.org/tags/%E8%B5%84%E6%BA%90/"/>
+    <category term="app" scheme="https://akanezero.eu.org/tags/app/"/>
     
   </entry>
   
@@ -226,6 +175,57 @@
     
     
     <category term="资源" scheme="https://akanezero.eu.org/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>资源合集</title>
+    <link href="https://akanezero.eu.org/post/9a9321ef.html"/>
+    <id>https://akanezero.eu.org/post/9a9321ef.html</id>
+    <published>2020-07-13T20:43:09.000Z</published>
+    <updated>2022-04-14T17:13:13.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文主要介绍重要的资源搜索，同时作为个人备份和更新用。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="资源" scheme="https://akanezero.eu.org/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站</title>
+    <link href="https://akanezero.eu.org/post/a1b17552.html"/>
+    <id>https://akanezero.eu.org/post/a1b17552.html</id>
+    <published>2020-07-13T20:43:09.000Z</published>
+    <updated>2021-12-06T10:24:50.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;主要推荐一些博主网站。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="网站&amp;导航&amp;书签" scheme="https://akanezero.eu.org/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网站合集</title>
+    <link href="https://akanezero.eu.org/post/a1b17552.html"/>
+    <id>https://akanezero.eu.org/post/a1b17552.html</id>
+    <published>2020-07-13T20:43:09.000Z</published>
+    <updated>2022-04-14T17:13:13.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文主要介绍重要的网站、导航、书签，同时作为个人备份和更新用。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="网站&amp;导航&amp;书签" scheme="https://akanezero.eu.org/tags/%E7%BD%91%E7%AB%99-%E5%AF%BC%E8%88%AA-%E4%B9%A6%E7%AD%BE/"/>
     
   </entry>
   
